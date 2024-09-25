@@ -1,3 +1,6 @@
+#Kevin de Almeida, Lucas Martin e Rubens Moreira 
+#BSI
+
 def pes_para_metros(pes):
     return pes * 0,3048
 
@@ -45,3 +48,5 @@ def converter():
         print("Opção inválida!")
 
 converter()
+
+
